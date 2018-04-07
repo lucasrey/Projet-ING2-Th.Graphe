@@ -1,0 +1,170 @@
+# depslib dependency file v1.0
+1522755016 source:c:\users\utilisateur\downloads\graph_lib_v1\graph_lib_exemple_graph\grman\coords.cpp
+	"coords.h"
+
+1522755016 c:\users\utilisateur\downloads\graph_lib_v1\graph_lib_exemple_graph\grman\coords.h
+	<cmath>
+
+1523014153 source:c:\users\utilisateur\downloads\graph_lib_v1\graph_lib_exemple_graph\graph.cpp
+	"graph.h"
+
+1522952477 c:\users\utilisateur\downloads\graph_lib_v1\graph_lib_exemple_graph\graph.h
+	<vector>
+	<map>
+	<string>
+	<memory>
+	"grman/grman.h"
+
+1522755016 c:\users\utilisateur\downloads\graph_lib_v1\graph_lib_exemple_graph\grman\grman.h
+	<allegro.h>
+	<string>
+	"grman_couleurs.h"
+	"coords.h"
+	"widget.h"
+
+1522840477 c:\users\utilisateur\downloads\graph_lib_v1\graph_lib_exemple_graph\grman\grman_couleurs.h
+
+1522755017 c:\users\utilisateur\downloads\graph_lib_v1\graph_lib_exemple_graph\grman\widget.h
+	"grman.h"
+	<iostream>
+	<string>
+	<vector>
+	<algorithm>
+	<allegro.h>
+
+1522755016 source:c:\users\utilisateur\downloads\graph_lib_v1\graph_lib_exemple_graph\grman\grman.cpp
+	<cmath>
+	<unordered_map>
+	<unordered_set>
+	<utility>
+	<string>
+	<iostream>
+	<regex>
+	"grman.h"
+	<allegro.h>
+	<png.h>
+	<loadpng.h>
+	<jpgalleg.h>
+
+1522755017 source:c:\users\utilisateur\downloads\graph_lib_v1\graph_lib_exemple_graph\grman\widget.cpp
+	"widget.h"
+
+1523014386 source:c:\users\utilisateur\downloads\graph_lib_v1\graph_lib_exemple_graph\main.cpp
+	"grman/grman.h"
+	<iostream>
+	<time.h>
+	"graph.h"
+
+1523042358 source:c:\users\rajur\desktop\projet\graph_lib_exemple_graph\graph.cpp
+	"graph.h"
+
+1523041569 c:\users\rajur\desktop\projet\graph_lib_exemple_graph\graph.h
+	<vector>
+	<map>
+	<string>
+	<memory>
+	"grman/grman.h"
+
+1523016652 c:\users\rajur\desktop\projet\graph_lib_exemple_graph\grman\grman.h
+	<allegro.h>
+	<string>
+	"grman_couleurs.h"
+	"coords.h"
+	"widget.h"
+
+1523016652 c:\users\rajur\desktop\projet\graph_lib_exemple_graph\grman\grman_couleurs.h
+
+1523016652 c:\users\rajur\desktop\projet\graph_lib_exemple_graph\grman\coords.h
+	<cmath>
+
+1523016652 c:\users\rajur\desktop\projet\graph_lib_exemple_graph\grman\widget.h
+	"grman.h"
+	<iostream>
+	<string>
+	<vector>
+	<algorithm>
+	<allegro.h>
+
+1523016652 source:c:\users\rajur\desktop\projet\graph_lib_exemple_graph\grman\coords.cpp
+	"coords.h"
+
+1523016652 source:c:\users\rajur\desktop\projet\graph_lib_exemple_graph\grman\grman.cpp
+	<cmath>
+	<unordered_map>
+	<unordered_set>
+	<utility>
+	<string>
+	<iostream>
+	<regex>
+	"grman.h"
+	<allegro.h>
+	<png.h>
+	<loadpng.h>
+	<jpgalleg.h>
+
+1523016652 source:c:\users\rajur\desktop\projet\graph_lib_exemple_graph\grman\widget.cpp
+	"widget.h"
+
+1523041569 source:c:\users\rajur\desktop\projet\graph_lib_exemple_graph\main.cpp
+	"grman/grman.h"
+	<iostream>
+	<time.h>
+	"graph.h"
+
+1523119095 source:c:\users\utilisateur\downloads\projet (2)\projet\graph_lib_exemple_graph\graph.cpp
+	"graph.h"
+	<fstream>
+
+1523118540 c:\users\utilisateur\downloads\projet (2)\projet\graph_lib_exemple_graph\graph.h
+	<vector>
+	<map>
+	<string>
+	<memory>
+	"grman/grman.h"
+
+1523118240 c:\users\utilisateur\downloads\projet (2)\projet\graph_lib_exemple_graph\grman\grman.h
+	<allegro.h>
+	<string>
+	"grman_couleurs.h"
+	"coords.h"
+	"widget.h"
+
+1523118240 c:\users\utilisateur\downloads\projet (2)\projet\graph_lib_exemple_graph\grman\grman_couleurs.h
+
+1523118240 c:\users\utilisateur\downloads\projet (2)\projet\graph_lib_exemple_graph\grman\coords.h
+	<cmath>
+
+1523118240 c:\users\utilisateur\downloads\projet (2)\projet\graph_lib_exemple_graph\grman\widget.h
+	"grman.h"
+	<iostream>
+	<string>
+	<vector>
+	<algorithm>
+	<allegro.h>
+
+1523118240 source:c:\users\utilisateur\downloads\projet (2)\projet\graph_lib_exemple_graph\grman\coords.cpp
+	"coords.h"
+
+1523118240 source:c:\users\utilisateur\downloads\projet (2)\projet\graph_lib_exemple_graph\grman\grman.cpp
+	<cmath>
+	<unordered_map>
+	<unordered_set>
+	<utility>
+	<string>
+	<iostream>
+	<regex>
+	"grman.h"
+	<allegro.h>
+	<png.h>
+	<loadpng.h>
+	<jpgalleg.h>
+
+1523118240 source:c:\users\utilisateur\downloads\projet (2)\projet\graph_lib_exemple_graph\grman\widget.cpp
+	"widget.h"
+
+1523118239 source:c:\users\utilisateur\downloads\projet (2)\projet\graph_lib_exemple_graph\main.cpp
+	"grman/grman.h"
+	<iostream>
+	<time.h>
+	"graph.h"
+
